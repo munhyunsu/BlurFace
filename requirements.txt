@@ -1,0 +1,7 @@
+pip
+wheel
+
+imageio
+imageio-ffmpeg
+numpy
+pandas
